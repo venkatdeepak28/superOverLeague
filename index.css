@@ -1,0 +1,21 @@
+/* Write your code here. */
+
+.bg-container {
+  background-color: #0f172a;
+  height: 98vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.main-heading {
+  color: #f8fafc;
+}
+.img-container {
+  display: flex;
+  flex-direction: row;
+}
+.img {
+  min-height: 80px;
+  max-height: 280px;
+}
